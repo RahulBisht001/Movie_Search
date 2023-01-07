@@ -83,6 +83,7 @@ body {
 }
 
 .posterDiv {
+    margin: 0 auto;
     width: 220px;
     height: 300px;
     border-radius: 12px;
