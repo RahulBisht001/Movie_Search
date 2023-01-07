@@ -1,4 +1,4 @@
-# Movie_Search
+# Movie_Search_App
 
 
 ### API Used : http://www.omdbapi.com/?t="Venom"&apikey=1ac2f294
